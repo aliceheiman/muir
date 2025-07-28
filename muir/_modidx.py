@@ -5,4 +5,9 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://aliceheiman.github.io',
                 'git_url': 'https://github.com/aliceheiman/muir',
                 'lib_path': 'muir'},
-  'syms': {'muir.core': {'muir.core.foo': ('core.html#foo', 'muir/core.py')}}}
+  'syms': { 'muir.constants': {},
+            'muir.core': { 'muir.core.get_unique_classes': ('core.html#get_unique_classes', 'muir/core.py'),
+                           'muir.core.load_lulc': ('core.html#load_lulc', 'muir/core.py'),
+                           'muir.core.lulc_pixel_stats': ('core.html#lulc_pixel_stats', 'muir/core.py'),
+                           'muir.core.make_biophysical_table_template': ('core.html#make_biophysical_table_template', 'muir/core.py'),
+                           'muir.core.parse_clr': ('core.html#parse_clr', 'muir/core.py')}}}

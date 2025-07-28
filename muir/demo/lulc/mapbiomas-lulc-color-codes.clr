@@ -1,0 +1,37 @@
+1 31 141 73 255 Forest
+3 31 141 73 255 Forest Formation
+4 125 201 117 255 Savanna Formation
+5 4 56 29 255 Mangrove
+6 0 119 133 255 Floodable Forest
+49 2 214 89 255 Wooded Sandbank Vegetation
+10 214 188 116 255 Herbaceous and Shrubby Vegetation
+11 81 151 153 255 Wetland
+12 214 188 116 255 Grassland
+32 252 129 20 255 Hypersaline Tidal Flat
+29 255 170 95 255 Rocky Outcrop
+50 173 81 0 255 Herbaceous Sandbank Vegetation
+14 255 239 195 255 Farming
+15 237 222 142 255 Pasture
+18 233 116 237 255 Agriculture
+19 194 123 160 255 Temporary Crop
+39 245 179 200 255 Soybean
+20 219 112 147 255 Sugar cane
+40 199 21 133 255 Rice
+62 255 105 180 255 Cotton (beta)
+41 245 76 169 255 Other Temporary Crops
+36 208 130 222 255 Perennial Crop
+46 214 143 226 255 Coffee
+47 153 50 204 255 Citrus
+35 144 101 208 255 Palm Oil
+48 230 204 255 255 Other Perennial Crops
+9 122 89 0 255 Forest Plantation
+21 255 239 195 255 Mosaic of Uses
+22 212 39 30 255 Non vegetated area
+23 255 160 122 255 Beach, Dune and Sand Spot
+24 212 39 30 255 Urban Area
+30 156 0 39 255 Mining
+25 219 77 79 255 Other non Vegetated Areas
+26 37 50 228 255 Water
+33 37 50 228 255 River, Lake and Ocean
+31 9 16 119 255 Aquaculture
+27 255 255 255 255 Not Observed

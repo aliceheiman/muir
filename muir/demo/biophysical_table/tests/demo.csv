@@ -1,0 +1,23 @@
+lucode,description,usle_c,usle_p
+3,Forest Formation,0.001,1.0
+5,Mangrove,0.002,1.0
+49,Wooded Sandbank Vegetation,0.01,0.9
+11,Wetland,0.003,1.0
+12,Grassland,0.05,0.8
+32,Hypersaline Tidal Flat,0.02,1.0
+29,Rocky Outcrop,0.001,1.0
+50,Herbaceous Sandbank Vegetation,0.04,0.85
+15,Pasture,0.15,0.7
+39,Soybean,0.2,0.6
+20,Sugar cane,0.18,0.65
+41,Other Temporary Crops,0.25,0.6
+46,Coffee,0.12,0.7
+48,Other Perennial Crops,0.13,0.7
+9,Forest Plantation,0.01,0.95
+21,Mosaic of Uses,0.08,0.8
+23,"Beach, Dune and Sand Spot",0.03,1.0
+24,Urban Area,0.05,1.0
+30,Mining,0.2,1.0
+25,Other non Vegetated Areas,0.07,1.0
+33,"River, Lake and Ocean",0.0,1.0
+31,Aquaculture,0.02,1.0

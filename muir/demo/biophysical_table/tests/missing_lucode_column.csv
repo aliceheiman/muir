@@ -1,0 +1,23 @@
+description,usle_c,usle_p
+Forest Formation,0.001,1.0
+Mangrove,0.002,1.0
+Wooded Sandbank Vegetation,0.01,0.9
+Wetland,0.003,1.0
+Grassland,0.05,0.8
+Hypersaline Tidal Flat,0.02,1.0
+Rocky Outcrop,0.001,1.0
+Herbaceous Sandbank Vegetation,0.04,0.85
+Pasture,0.15,0.7
+Soybean,0.2,0.6
+Sugar cane,0.18,0.65
+Other Temporary Crops,0.25,0.6
+Coffee,0.12,0.7
+Other Perennial Crops,0.13,0.7
+Forest Plantation,0.01,0.95
+Mosaic of Uses,0.08,0.8
+"Beach, Dune and Sand Spot",0.03,1.0
+Urban Area,0.05,1.0
+Mining,0.2,1.0
+Other non Vegetated Areas,0.07,1.0
+"River, Lake and Ocean",0.0,1.0
+Aquaculture,0.02,1.0
