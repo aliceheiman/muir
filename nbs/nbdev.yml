@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "muir"
+  site-url: "https://aliceheiman.github.io/muir"
+  description: "Utilities for preparing map layers for ecosystem modelling"
+  repo-branch: main
+  repo-url: "https://github.com/aliceheiman/muir"
